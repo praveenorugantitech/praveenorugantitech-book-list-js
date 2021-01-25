@@ -4,6 +4,6 @@
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-javascript-projects/master/praveenorugantitech-book-list/screenshot2.PNG "Book List")
 
-[Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-javascript-projects/praveenorugantitech-book-list/Demo)
+[Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-book-list-js/Demo)
 
 
